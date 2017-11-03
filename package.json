@@ -1,0 +1,18 @@
+{
+  "fitbit": {
+    "appUUID": "97b1bdba-acb6-4f4f-8b5e-1c78f259b975",
+    "appType": "app",
+    "appDisplayName": "TW Air",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#00bcd4",
+    "requestedPermissions": [
+      "access_internet",
+      "access_location"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Taiwan Air"
+      }
+    }
+  }
+}

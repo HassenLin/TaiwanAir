@@ -1,0 +1,12 @@
+<svg>
+    <section x="0" y="0" width="100%-10" height="100%">
+	    <text id="location" font-size="50" x="0" y="50" fill="white">地區</text>
+      <image id="Light" href="green.png" x="0" y="60" height="25" width="25" />
+	    <text id="Status" font-size="25" x="30" y="80" fill="white">AQI狀態</text>
+      <text id="Suggest" font-size="25" x="0" y="110" fill="white">建議</text> 
+	    <text id="CO" font-size="20" x="0" y="145" fill="white">一氧化碳: ?  臭氧: ?</text>
+	    <text id="NO" font-size="20" x="0" y="170" fill="white">一氧化氮: ?  二氧化氮: ?</text>
+	    <text id="PM10" font-size="20" x="0" y="195" fill="white">PM10: ?</text>
+	    <text id="PM2_5" font-size="20" x="0" y="220" fill="white">PM2.5: ?</text> 
+    </section>
+</svg>
